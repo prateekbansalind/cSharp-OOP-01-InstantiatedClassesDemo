@@ -13,7 +13,7 @@ namespace ConsoleUI
         public string Email { get; set; }
         public int Age { get; set; }
         public string Gender { get; set; }
-        public bool ValidAge { get; set; }
+        public bool IsValidAge { get; set; }
 
     }
 }
